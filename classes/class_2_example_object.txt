@@ -1,0 +1,15 @@
+Instance chair_42
+
+attributes
+
+occupant("Dave")
+number_of_legs(4)
+seat_material("wood")
+current_table(table_4)
+
+methods
+
+add_occupant(occupant = "Marie")
+remove_occupant(occupant = "")
+place_at_table(current_table = table_2)
+remove_leg(number_of_legs -= 1)
