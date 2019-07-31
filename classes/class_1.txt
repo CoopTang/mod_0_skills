@@ -1,0 +1,17 @@
+Class Table
+
+attributes
+
+occupants(array)
+max_occupants(int)
+seats(array)
+waiter(Class Person)
+
+methods
+
+add_occupant(adds occupants to the table to a max of max_occupants)
+remove_occupant(removes occupants to a minimum of zero)
+change_waiter(changes the current waiter to a different waiter or nil)
+add_seat(adds a seat to the seats array)
+remove_seat(removes a seat from the seats array)
+
