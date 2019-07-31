@@ -5,7 +5,7 @@ attributes
 occupants(array)
 max_occupants(int)
 seats(array)
-waiter(Class Person)
+waiter(string)
 
 methods
 
