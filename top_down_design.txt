@@ -1,0 +1,53 @@
+# how to become a Turing Student
+
+1. Apply to Turing
+    - navigate to Turing.io
+    - pick a program to apply for (i.e. BEE or FEE)
+        - Click the apply button for the program
+    - Log in to facebook or github
+    - Complete the three sections
+        - Give basic identity and contact info
+        - Submit your work and school history
+        - Complete a logic quiz
+    - Take interview with staff
+        - pick a timeslot and location for the interview
+        - attend interview
+            - dress appropriately
+
+2. Apply for financial aid
+    - Inform Turing of your financial aid choice (GI Bill in my case)
+    - Apply for GI Bill
+        - Go to the va website 
+        - Fill out VA Form 22-1995 online
+            - Give Turing's info
+    - Give documents to Turing
+        - Certificate of Eligibility
+            - Have to wait for that to come in the mail.
+        - SSN card
+        - Driver's license.
+        - Anything else that's requested
+3. Complete mod 0
+    - Pick a class to join
+        - Go to the online portal for timeslots
+    - Attend your classes for the next two weeks.
+        - Do your post-session homework
+            - Go to the project board
+            - Complete cards
+    - Do your mod 0 capstone
+        - Technical portion
+            - Fork the mod_0_capstone repo
+            - Complete day 0 through day 7
+                - These aren't small projects, so start early
+        - Professional Development
+            - Fill out gist
+                - Answer the questions on your strengths and work preferences
+        - Gear Up
+            - Fill out gist
+                - Read at least two of the provided articles on Empathy
+                - Answer the questions on Empathy
+
+4. Work hard and study hard
+    - Be attentive
+    - Ask questions
+    - Study the lessons and homework
+    - Learn your trade inside and out
