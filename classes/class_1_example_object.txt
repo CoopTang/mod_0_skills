@@ -1,0 +1,17 @@
+Instance table_1
+
+attributes
+
+occupants(["Billy", "Joe", "Bob"])
+max_occupants(4)
+seats([chair_1, chair_2, chair_3])
+waiter("Steve")
+
+methods
+
+add_occupant(occupants.push("Mary"))
+remove_occupant(occupants.delete("Billy"))
+change_waiter(waiter = "Mark")
+add_seat(seats.push(chair_4))
+remove_seat(seats.pop)
+
