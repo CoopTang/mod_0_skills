@@ -1,0 +1,15 @@
+Class chair
+
+attributes
+
+occupant(string)
+number_of_legs(int)
+seat_material(string)
+current_table(table)
+
+methods
+
+add_occupant(adds an occupant to the chair)
+remove_occupant(removes the occupant from the chair)
+place_at_table(places the chair at a table)
+remove_leg(removes a leg from the chair. Kind of silly.)
